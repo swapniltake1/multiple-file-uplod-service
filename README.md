@@ -19,7 +19,7 @@ Follow these steps to get the project up and running:
 
    ```shell
    git clone https://github.com/swapniltake1/multiple-file-uplod-service.git
-   cd spring-boot-file-upload
+   cd multiple-file-uplod-service
    ```
 
 2. Configure the database settings in `src/main/resources/application.properties`:
