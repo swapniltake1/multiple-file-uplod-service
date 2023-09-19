@@ -63,3 +63,15 @@ Follow these steps to get the project up and running:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screenshots
+
+![files uploaded ](https://github.com/swapniltake1/multiple-file-uplod-service/assets/61576958/b1821577-8965-4221-a25b-0529d1131920)
+
+
+![files saved in h2 databaSE](https://github.com/swapniltake1/multiple-file-uplod-service/assets/61576958/0d355224-b03a-4f44-be0c-9755407a54f4)
+
+
+![logs](https://github.com/swapniltake1/multiple-file-uplod-service/assets/61576958/4a8c954d-6771-42af-8953-aed7a6a06dd9)
+
+
